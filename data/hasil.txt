@@ -1,0 +1,22 @@
+2.c Soal i
+
+Dokumen/Kata        juara    sepakbola    mahasiswa  universitas    indonesia
+          D1        1.748        2.444        0.384        0.000        0.183
+          D2        2.600        0.000        0.792        0.404        0.378
+          D3        0.554        0.774        0.607        0.580        0.579
+
+
+2.c Soal ii
+
+Kueri = juara sepakbola
+
+.:: Jaccard Similarity ::.
+Dokumen 1 = 0.444
+Dokumen 2 = 0.313
+Dokumen 3 = 0.123
+
+Dokumen yang paling relevan adalah 
+Dokumen 1
+
+Dokumen yang paling tidak relevan adalah 
+Dokumen 3
